@@ -25,3 +25,11 @@ Assign appropriate command functions to each button.
 Run the Application:
 
 Start the application's main loop using root.mainloop().
+
+Explanation:
+Imports: We import the tkinter module.
+Functions: We define functions to handle button clicks, clear the entry, and evaluate the expression.
+Main Window: We create the main window and set its title.
+Entry Widget: This is where the user inputs numbers and sees the results.
+Buttons: We create buttons for digits, operators, clear, and equals, and arrange them in a grid layout.
+Main Loop: Finally, we run the main loop to start the application.
